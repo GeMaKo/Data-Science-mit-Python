@@ -1,0 +1,11 @@
+seaborn
+matplotlib
+numpy
+pandas
+nltk
+plotly
+sqlalchemy
+psycopg2
+ppscore
+missingno
+gensim
